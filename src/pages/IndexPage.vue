@@ -84,7 +84,7 @@ const columns = [
 
 
 const initialData = [
-  { provincePlace: "เชียงใหม่", price: 35.50, date: "2023-08-15", lat: 18.7883, lng: 98.9853 },
+  { provincePlace: "อนุพงค์ มาบุญเรือง 396", price: 6604101396.00, date: "2023-08-15", lat: 18.89493, lng: 99.01093 },
   { provincePlace: "ตลาดสันทราย-เชียงใหม่", price: 38.00, date: "2023-08-16", lat: 18.8056, lng: 99.0105 },
   { provincePlace: "ลำพูน", price: 34.00, date: "2023-08-15", lat: 18.5833, lng: 99.0000 },
 ];
